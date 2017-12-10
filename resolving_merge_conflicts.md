@@ -1,6 +1,6 @@
 # Resolving Merge Conflicts
 
-This is the original file.
+This file was modified online.
 
 ***
 
